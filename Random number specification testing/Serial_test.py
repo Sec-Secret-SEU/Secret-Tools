@@ -1,10 +1,9 @@
 '''
 Serial_test.py:重叠子序列检测
 '''
-import math
 
 from main import alpha, generate_random_sequence
-from scipy.special import gammaincc,gammainc
+from scipy.special import gammaincc
 
 TAG = 'Serial_test'
 
